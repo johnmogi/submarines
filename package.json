@@ -5,9 +5,12 @@
   "main": "src/js/index.js",
   "scripts": {
     "git": "git add --all && git commit -m",
-    "postgit" : "git push --all"
+    "postgit": "git push --all"
   },
   "keywords": [],
   "author": "John Mogi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
 }
